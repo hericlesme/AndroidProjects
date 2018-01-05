@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="frase">Sem procrastinar Scientists</string>
+</resources>
